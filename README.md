@@ -30,11 +30,9 @@ src/
 3. Run `npm run dev`
 4. Open the URL shown in the terminal (usually http://localhost:5173)
 
-## Screenshots
-(Add screenshots here)
 
 ## Live Demo
-(Add live link here if deployed)
+https://our-own-todo-app.netlify.app/
 
 ## Author
 Harsh Solanki
